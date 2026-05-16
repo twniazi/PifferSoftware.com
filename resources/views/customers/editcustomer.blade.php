@@ -2873,6 +2873,7 @@
                     </a>
                   </div>
                 </nav>
+                //######################################33
                 <div class="tab-content" style="font-size: small; font-weight: 600;" id="nav-tabContent">
                   <!--sales-pipeline-->
                   <div class="tab-pane fade m-3" style="opacity: 90%;" id="sales-pipeline" role="tabpanel"
